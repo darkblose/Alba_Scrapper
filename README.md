@@ -9,3 +9,7 @@
 ### 2. Result
 
 ![image2](https://user-images.githubusercontent.com/56018219/182358828-f57a55a1-d981-4fcc-9205-9d2cd4fb1aa7.png)
+
+### 3. Compare CSV to web-view
+
+![image3](https://user-images.githubusercontent.com/56018219/182359643-88101d91-65e9-46df-bb7f-248aa7703710.png)

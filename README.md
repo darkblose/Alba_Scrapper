@@ -1,4 +1,4 @@
-# Part-time_Scrapper
+# part-time-Scrapper
 
 알바천국에서 슈퍼브랜드별로 채용정보를 자동으로 스크랩하여 CSV로 저장하는 스크래퍼입니다.
 
